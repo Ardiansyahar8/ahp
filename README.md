@@ -14,7 +14,7 @@ Sistem Decision Support berbasis **AHP (Analytical Hierarchy Process)** untuk me
 | Data | Keterangan |
 |------|------------|
 | **Nama** | Ardiansyah |
-| **NIM** | [Masukkan NIM Anda] |
+| **NIM** | 206230009 |
 | **Project** | AHP Engineering (Student Dev Project) |
 | **Case Study** | Pabrik Tepung Tapioka |
 | **Business Owner** | TIP Holding Company |
@@ -289,3 +289,4 @@ MIT License - Free to use for educational purposes
 ---
 
 **Made with ❤️ for Agro-Industry Decision Support**
+
